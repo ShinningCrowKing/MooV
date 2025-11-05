@@ -1,4 +1,4 @@
-![Moov Logo](https://github.com/ShinningCrowKing/MooV/assets/120951/3632d9ea-0c64-40e5-8f9e-b13b28b5e197)
+![Moov Logo](https://github.com/moovfinancial/moov-go/assets/120951/3632d9ea-0c64-40e5-8f9e-b13b28b5e197)
 
 [![GoDoc](https://pkg.go.dev/badge/github.com/ShinningCrowKing/MooV?utm_source=godoc)](https://pkg.go.dev/github.com/ShinningCrowKing/MooV)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ShinningCrowKing/MooV)](https://goreportcard.com/report/github.com/ShinningCrowKing/MooV)
@@ -14,7 +14,7 @@ The official [Go](http://golang.org) client for the [Moov payments API](https://
 
 ```go
 import (
-	"github.com/moovfinancial/moov-go/pkg/moov"
+	"github.com/ShinningCrowKing/MooV/pkg/moov"
 )
 ```
 
